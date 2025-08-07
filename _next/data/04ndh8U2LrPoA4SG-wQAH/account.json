@@ -1,0 +1,250 @@
+[
+{
+  "name": "Simon_Showsky",
+  "level": 7,
+  "hp": 40,
+  "xp": 7,
+  "money": 484930,
+  "hasJob": "Таксист",
+  "maxHunger": 100,
+  "hunger": 0,
+  "vip": null,
+  "vip_level": 0,
+  "vipExpirationDate": null,
+  "coins": 0,
+  "telephone": "3 290 819",
+  "telephoneBalance": null,
+  "cash": 274930,
+  "bank": 210000,
+  "deposit": 0,
+  "bankCard": true,
+  "gender": "Муж",
+  "maxXp": 32,
+  "married": "",
+  "wantedLevel": 0,
+  "drugAddict": "нет зависимости",
+  "playerAdditionVip": 0,
+  "warns": 0,
+  "blago": 0,
+  "bankAccount1": -1,
+  "bankAccount2": -1,
+  "bankAccount3": -1,
+  "bankAccount4": -1,
+  "bankAccount5": -1,
+  "bankAccount6": -1,
+  "PlayHours": 59,
+  "ZKP": 51,
+  "mail": "gi4go@bk.ru",
+  "organization": null,
+  "job": null,
+  "avatar": 29,
+  "bitcoins": null,
+  "gameChips": null,
+  "server": 7,
+  "euro": null,
+  "family": null,
+  "armyTicket": null,
+  "passportSN": "5494 920667",
+  "birthDate": "17.9.1997",
+  "maxHp": 100,
+  "lastupdate": "1676335224",
+  "more": 0,
+  "houseUpdate": 0,
+  "haveTwoFarms": 0,
+  "haveTwoWarehouses": null,
+  "feFinder": 1,
+  "pack": 1,
+  "businessman_1": 0,
+  "plancet": 1,
+  "noCarSkill": 0,
+  "moreRealty": 0,
+  "noNalog": 0,
+  "sevenBiz": null,
+  "familyCertificate": null,
+  "pensionInsurance": 0,
+  "upgradeRassrochka": 0,
+  "upgradeAutopark": 0,
+  "addHouseSlot": 0,
+  "largePockets": null,
+  "addParkingSlot": null,
+  "blackListOrgs": [],
+  "realty": [],
+  "inventory": [
+    {
+      "id": 1171,
+      "name": "Мед. Карта [Полностью здоровый(ая)]",
+      "image": 2686,
+      "putOn": false,
+      "amount": 1,
+      "type": 1
+    },
+    {
+      "id": 569,
+      "name": "Сундук рулетки",
+      "image": 19918,
+      "putOn": false,
+      "amount": 1,
+      "type": 1
+    },
+    {
+      "id": 220,
+      "name": "Скин: Drug Dealer (ID: 29)",
+      "image": 29,
+      "putOn": true,
+      "amount": 1,
+      "type": 22
+    }
+  ],
+  "transports": [
+    {
+      "id": 529,
+      "name": "Willard",
+      "type": "Легковой",
+      "cost": 590000
+    }
+  ],
+  "skills": {
+    "figtingStyles": [
+      {
+        "id": "Boxing",
+        "value": 13
+      },
+      {
+        "id": "Kungfu",
+        "value": 0
+      },
+      {
+        "id": "Kneehead",
+        "value": 0
+      },
+      {
+        "id": "Grabkick",
+        "value": 0
+      },
+      {
+        "id": "Elbow",
+        "value": 0
+      }
+    ],
+    "weaponSkills": [
+      {
+        "id": "pistolSkill",
+        "value": 0
+      },
+      {
+        "id": "sdpistolSkill",
+        "value": 0
+      },
+      {
+        "id": "eagleSkill",
+        "value": 0
+      },
+      {
+        "id": "shotgunSkill",
+        "value": 0
+      },
+      {
+        "id": "uziSkill",
+        "value": 0
+      },
+      {
+        "id": "mp5Skill",
+        "value": 0
+      },
+      {
+        "id": "ak47Skill",
+        "value": 0
+      },
+      {
+        "id": "m4Skill",
+        "value": 0
+      },
+      {
+        "id": "sniperSkill",
+        "value": 0
+      }
+    ],
+    "others": [
+      {
+        "id": "allRepl",
+        "value": 0
+      },
+      {
+        "id": "craftSkill",
+        "value": 0
+      },
+      {
+        "id": "carSkill",
+        "value": 70
+      },
+      {
+        "id": "bikeSkill",
+        "value": 0
+      },
+      {
+        "id": "veloBikeSkill",
+        "value": 0
+      },
+      {
+        "id": "gymForce",
+        "value": 0
+      },
+      {
+        "id": "gymEndurance",
+        "value": 0
+      },
+      {
+        "id": "gymMusculature",
+        "value": 0
+      },
+      {
+        "id": "gymEnergy",
+        "value": 500
+      },
+      {
+        "id": "contractTime",
+        "value": 174
+      },
+      {
+        "id": "dSkill",
+        "value": 0
+      },
+      {
+        "id": "taxiSkill",
+        "value": 704
+      },
+      {
+        "id": "gryzJobSkill",
+        "value": 0
+      },
+      {
+        "id": "pilotClass",
+        "value": 0
+      },
+      {
+        "id": "cladmanSkill",
+        "value": 0
+      },
+      {
+        "id": "driverSkill",
+        "value": 0
+      },
+      {
+        "id": "tramOperatorSkill",
+        "value": 0
+      },
+      {
+        "id": "carTheftSkill",
+        "value": 0
+      }
+    ]
+  },
+  "rating_first": {
+    "money": "Yuriy_Mayakov",
+    "level": "Dmitry_Bonus"
+  },
+  "minShopPrice": 142,
+  "role": "ADMIN",
+  "taxMultiplier": 10
+}
+]
